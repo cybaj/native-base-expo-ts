@@ -1,3 +1,17 @@
+# 과정
+
+```
+$ npx create-react-native-app -t with-typescript expo-ts
+```
+
+이후 expo, react-native, react 등 버전 최신화 해주고,
+
+```
+$ yarn add native-base
+$ npx expo install react-native-svg@12.1.1
+$ npx expo install react-native-safe-area-context@3.3.2
+```
+
 # TypeScript Example
 
 <p>
